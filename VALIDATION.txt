@@ -1,0 +1,10 @@
+Validation date: 2026-10-08 (Asia/Seoul)
+test_all_split_points (test_main.FrameTests.test_all_split_points) ... ok
+test_corruption_resync_duplicate (test_main.FrameTests.test_corruption_resync_duplicate) ... ok
+test_known_crc_vector (test_main.FrameTests.test_known_crc_vector) ... ok
+test_noise_buffer_is_bounded (test_main.FrameTests.test_noise_buffer_is_bounded) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK

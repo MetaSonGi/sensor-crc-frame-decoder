@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "asset_id": 1,
+      "sequence": 1,
+      "temperature_c": 38.25,
+      "current_a": 1.234,
+      "accepted": true,
+      "status": "ok"
+    },
+    {
+      "asset_id": 1,
+      "sequence": 1,
+      "temperature_c": 38.25,
+      "current_a": 1.234,
+      "accepted": false,
+      "status": "stale_or_duplicate"
+    },
+    {
+      "asset_id": 2,
+      "sequence": 1,
+      "temperature_c": 29.5,
+      "current_a": 0.8,
+      "accepted": true,
+      "status": "ok"
+    }
+  ],
+  "crc_errors": 1,
+  "discarded_bytes": 18,
+  "buffered_bytes": 0
+}
